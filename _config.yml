@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   My blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://d3vsid-sudo.github.io/blog'
+url: 'https://d3vsid-sudo.github.io'
 
 github:
   username: d3vsid-sudo # change to your github username
