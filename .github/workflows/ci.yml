@@ -1,16 +1,19 @@
-name: 'Automatic build'
+name: 'Continuous Integration'
 on:
   push:
     branches:
       - main
     paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+      - '.github/**'
+      - '!.github/workflows/ci.yml'
+      - '.travis.yml'
+      - '.gitignore'
+      - 'docs/**'
+      - 'README.md'
+      - 'LICENSE'
 
 jobs:
-  continuous-delivery:
-
+  ci:
     runs-on: ubuntu-latest
 
     steps:
