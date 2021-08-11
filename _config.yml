@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://mrnightdev.github.io'
 
 github:
-  username: d3vsid-sudo # change to your github username
+  username: 0xMrNight # change to your github username
 
 twitter:
   username: 0xMrNight # change to your twitter username
@@ -39,10 +39,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0xMrNight      # change to your twitter homepage
-    - https://github.com/mrnightdev       # change to your github homepage
+    - https://github.com/0xMrNight       # change to your github homepage
+    - https://www.linkedin.com/in/siddharth-arumugam
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -61,10 +61,10 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://cdn.jsdelivr.net/gh/mrnightdev/assets@v0.1'
+img_cdn: 'https://cdn.jsdelivr.net/gh/0xMrNight/blog-images@latest'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/icons/avatar.jpg' # https://cdn.jsdelivr.net/gh/d3vsid-sudo/assets@v0.1/icons/avatar.jpg
+avatar: '/commons/avatar.jpg' # https://cdn.jsdelivr.net/gh/0xMrNight/blog-images@latest/commons/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
