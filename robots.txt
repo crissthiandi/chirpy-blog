@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://mrnightdev.github.io/chirpy-blog/sitemap.xml
